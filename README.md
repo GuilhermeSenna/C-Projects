@@ -1,4 +1,4 @@
-# C-projects
+# C-Projects
 
 Animação de um lançamento de um Foguete em 2D feito na linguagem C usando OpenGL para disciplina de Computação Gráfica do curso de Ciência da Computação da UESC (Universidade Estadual de Santa Cruz).
 
