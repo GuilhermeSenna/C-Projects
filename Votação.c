@@ -147,11 +147,11 @@ int main()
         if (c1 > c2 && c1 > c3 && c1 > c4){
             printf("o maior é c1\n");
         }
-        else if (c2 > c1 && c2 > c3 && c2 > c4){
+        else if (c2 > c3 && c2 > c4){
             printf("o maior é c2\n");
         }
             
-        else if (c3 > c1 && c3 > c2 && c3 > c4){
+        else if (c3 > c4){
             printf("o maior é c3\n");
         }
         else{
@@ -162,11 +162,11 @@ int main()
         if (c1 < c2 && c1 < c3 && c1 < c4){
             printf("o menor é c1\n");
         }
-        else if (c2 < c1 && c2 < c3 && c2 < c4){
+        else if (c2 < c3 && c2 < c4){
             printf("o menor é c2\n");
         }
             
-        else if (c3 < c1 && c3 < c2 && c3 < c4){
+        else if (c3 < c4){
             printf("o menor é c3\n");
         }
         else{
